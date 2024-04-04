@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+#wrapper {
+    width: 700px;
+    margin: auto;
+    padding: 10px 20px;
+    background-color: #abbda5;
+    box-shadow: 0 0 10px 2px #333333;
+    border: 1px solid grey;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.text {
+    color: #209da6;
+    text-transform: uppercase;
+}
+
+.wonder {
+    width: 595px;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    border: 1px solid #000000;
+}

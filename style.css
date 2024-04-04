@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    padding: 5px 15px;
+    font-style: italic;
+    color: #5c6e91;
+    background-color: #f2f4c0;
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+}
+
+.comment-section {
+    background-color: #e4e978;
+    padding: 5px 15px;
+    margin: 15px 10px;
+}
+
+.comment-section article {
+    background-color: #4c7658;
+    padding: 5px 15px;
+    font-style: italic;
+    color: #ffffff;
+    border: 1px solid #b2ad7d;
+    margin: 15px 0;
+}
+
+/* Import Montserrat font from Google Fonts */
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+
+/* Apply Montserrat as the font for the entire body */
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 16px;
+}
+
+/* Style for table header cells (<th>) */
+th {
+    background-color: lightblue;
+    width: 144px;
+    height: 32px;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+}
+
+/* Style for table header cells (<th>) and data cells (<td>) */
+th, td {
+    width: 144px;
+    height: 32px;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+}

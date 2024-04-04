@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cac7c8;
+}
+
+nav {
+    background-color: rgb(111, 209, 209);
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+    box-shadow: 0 0 10px 2px #dfdddd;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
