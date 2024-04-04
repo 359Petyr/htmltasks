@@ -5,8 +5,8 @@ Welcome to the HTML and CSS exercises showcase! This repository contains a serie
 ## About
 This repository serves as a comprehensive showcase of my HTML and CSS skills. Each exercise is carefully crafted to test different aspects of web page development.
 ##
-### Exercises
 
+<h1>Exercises </h1>
 
 ## Exercise 1: Animals Page
 **Description:** Create a simple web page showcasing different pictures. Practice structuring the content using HTML.
